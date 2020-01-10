@@ -16,8 +16,8 @@ There are 6 steps to recognize car plate.
 
 6- we are using ocr framework to recognize plate numbers and letters.
 
-This project is open to improve. You can pull this project and develop for your goal.\n\n
+This project is open to improve. You can pull this project and develop for your goal.
 
-This project is for my representation. The occurency rate is not good. If program does not find your plate, it is normal for sometimes.\n\n  
+This project is for my presentation. The occurency rate is not good. If program does not find your every plate, it is normal.  
 
-To ask anything about this sample you can send mail me: kkirci.emre@gmail.com
+To ask anything about this sample you can send me mail via kkirci.emre@gmail.com
